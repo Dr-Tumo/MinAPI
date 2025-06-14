@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "d9hFQqbsr5fRUZmlwCZP5KqWc/DHANah6+xie/R3Pa4=",
+  "Source": "MinAPI",
+  "BasePath": "_content/MinAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
